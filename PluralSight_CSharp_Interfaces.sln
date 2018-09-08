@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralSight_CSharp_Interfaces", "PluralSight_CSharp_Interfaces\PluralSight_CSharp_Interfaces.csproj", "{F4BBB678-4EA6-4968-BBE1-A1564592B61E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4BBB678-4EA6-4968-BBE1-A1564592B61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BBB678-4EA6-4968-BBE1-A1564592B61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BBB678-4EA6-4968-BBE1-A1564592B61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BBB678-4EA6-4968-BBE1-A1564592B61E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B6DF602-2E4F-44F2-9852-72D17A2698E1}
+	EndGlobalSection
+EndGlobal
