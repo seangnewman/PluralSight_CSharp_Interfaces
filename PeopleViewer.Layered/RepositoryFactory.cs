@@ -13,8 +13,6 @@ namespace PeopleViewer
             object repoInstance = Activator.CreateInstance(repoType);
             IPersonRepository repo = repoInstance as IPersonRepository;
             return repo;
-
-             
         }
     }
 }
